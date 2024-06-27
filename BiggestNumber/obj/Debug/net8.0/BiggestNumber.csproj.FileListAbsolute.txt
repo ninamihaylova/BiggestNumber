@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\bin\Debug\net8.0\BiggestNumber.exe
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\bin\Debug\net8.0\BiggestNumber.deps.json
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\bin\Debug\net8.0\BiggestNumber.runtimeconfig.json
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\bin\Debug\net8.0\BiggestNumber.dll
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\bin\Debug\net8.0\BiggestNumber.pdb
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.dll
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\refint\BiggestNumber.dll
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.pdb
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\BiggestNumber.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\BiggestNumber\BiggestNumber\obj\Debug\net8.0\ref\BiggestNumber.dll
